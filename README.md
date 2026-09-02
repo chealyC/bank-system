@@ -15,7 +15,7 @@ A simple bank system written in C.
 
 ```text
 main.c    - Main program and menus
-bank.c    - Banking functions
+bank.c    - Bank functions
 bank.h    - Struct and function prototypes
 ```
 
