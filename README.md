@@ -1,6 +1,6 @@
-# Banking System
+# Bank System
 
-A simple banking system written in C.
+A simple bank system written in C.
 
 ## Features
 
@@ -24,7 +24,7 @@ bank.h    - Struct and function prototypes
 Using GCC:
 
 ```bash
-gcc main.c bank.c -o banking_system
+gcc main.c bank.c -o bank_system
 ```
 
 Then run:
@@ -32,13 +32,13 @@ Then run:
 **Windows:**
 
 ```powershell
-.\banking_system.exe
+.\bank_system.exe
 ```
 
 **Linux/macOS:**
 
 ```bash
-./banking_system
+./bank_system
 ```
 
 ## Notes
